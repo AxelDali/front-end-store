@@ -1,5 +1,5 @@
 :root {
-    --primary: #9C2780;
+    --primary: #9C27B0;
     --primaryDark: #89119D;
     --secondary: #FFCE00;
     --secondaryDark: rgb(233, 187, 2);
@@ -36,7 +36,7 @@ a {
 }
 
 img {
-    width: 100%;
+    max-width: 100%;
 }
 
 .container {
