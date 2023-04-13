@@ -1,0 +1,10 @@
+:root {
+    --primary: #9C2780;
+    --primaryDark: #89119D;
+    --secondary: #FFCE00;
+    --secondaryDark: rgb(233, 187, 2);
+    --white: #FFF;
+    --black: #000;
+
+    --mainFont: 'Staatliches', cursive;
+}
