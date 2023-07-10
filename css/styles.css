@@ -103,3 +103,20 @@ h3 {
 .nav__link:hover {
     color: var(--secondary);
 }
+
+/** Products **/
+.product {
+
+}
+
+.product__image {
+
+}
+
+.product__name {
+
+}
+
+.product__price {
+    
+}
